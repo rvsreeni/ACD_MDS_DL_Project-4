@@ -4,13 +4,13 @@
 
 2) Execution Screenshots
 
-a) SP500 index 
-Autocorrelation Plot 
-ARIMA Model Fit 
+2.a) SP500 index 
+Autocorrelation Plot, 
+ARIMA Model Fit, 
 ARIMA Model Predict
 
-b) Apple Stock price (AAPL) - 
-Autocorrelation Plot 
-ARIMA Model Fit 
+2.b) Apple Stock price (AAPL) - 
+Autocorrelation Plot, 
+ARIMA Model Fit, 
 ARIMA Model Predict
 
